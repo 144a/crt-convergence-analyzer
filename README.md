@@ -1,7 +1,7 @@
 # crt-convergence-analyzer
 A CRT Convergence Analyzing Tool based on OpenCV
 
-This a simple proof-of-concept program that demonstrated the same functionality as advanced CRT convergence tools from back in the day. To do this, it follows a few steps:
+This a simple proof-of-concept program that demonstrates the same functionality as advanced CRT convergence tools from back in the day. To do this, it follows a few steps:
 1. Identify dots from a dot test pattern
 2. Crop and scale/interpolate each individual dot
 3. Look for areas with excessive red and blue contours
