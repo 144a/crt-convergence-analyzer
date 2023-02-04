@@ -10,7 +10,7 @@ This a simple proof-of-concept program that demonstrates the same functionality 
 
 The tool is simple to use and only requires a path and scale factor (0-100). It requires that the OpenCV library is installed.
 
-python3 crtconvanalysis <Path_to_image> <scale>
+python3 crtconvanalysis Path_to_image scale
 
 To run this with the example photo included (of a BVM-A24E1WU) copy and run this command:
 
